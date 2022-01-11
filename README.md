@@ -1,16 +1,14 @@
-### Hi there, I am Ruth. Great to have you here! 👋
+<p>
+  <h1 align="center"> Hello world <img 
+      src="https://user-images.githubusercontent.com/18552051/148887049-484d8286-be25-4a6b-b4be-4e1df42b9c21.gif" width="50" height="50" 
+    /> Welcome to my Github profile! 
+    <img 
+      src="https://user-images.githubusercontent.com/18552051/148884786-a1f79b38-20a0-4d97-ae9d-a061a242241e.gif" width="50" height="50" 
+    />
 
-<!--
-**Rooted1/rooted1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  </h1>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently contributing to open source projects
-- 🌱 I’m currently learning data structures and algorithms
-- 👯 I’m looking to collaborate on amazing SE projects
-- 🤔 I’m looking for help with Graph Algos
-- 💬 Ask me about DS & Algos
-- 📫 How to reach me: Twitter @rootedBugs
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm cool 😎
--->
+  <img 
+   src="https://github-readme-stats.vercel.app/api?username=rooted1&show_icons=true&theme=merko" 
+/>
+</p>
