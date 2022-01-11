@@ -19,7 +19,7 @@
     <li>🤔 I’m looking for <strong>help</strong> with Graph Algos</li>
     <li>💬 Ask me about <i>DS & Algos</i></li>
     <li>📫 How to reach me: Twitter <strong>@rootedBugs</strong></li>
-    <li>😄 Pronouns: <strong>She/Her</strong>/li>
+    <li>😄 Pronouns: <strong>She/Her</strong></li>
     <li>⚡ Fun fact: <strong>I'm cool</strong> 😎</li>
   </ul>
 
