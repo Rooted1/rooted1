@@ -10,7 +10,7 @@
   <br>
   <br>
   
-  <p><img align="right" height="250" width="350" alt="GIF" src="https://user-images.githubusercontent.com/18552051/148891623-5ccb7409-c674-4995-924d-88f1d4ceeaac.gif" style="max-width: 100%;"></p>
+  <p><img align="right" height="300" width="400" alt="GIF" src="https://user-images.githubusercontent.com/18552051/148894220-9ab7a138-f272-4c44-bc3a-d4336155a9bb.png" style="max-width: 100%;"></p>
 
   <ul>
     <li>🔭 I’m currently contributing to <strong>open source projects</strong></li>
@@ -23,7 +23,10 @@
     <li>⚡ Fun fact: <strong>I'm cool</strong> 😎</li>
   </ul>
 
+
+
 <br>
+
 <br> 
 
  <p align="center">
