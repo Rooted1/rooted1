@@ -33,11 +33,18 @@
 
 <br>
 <br> 
-
+<div>
  <p align="center">
       <img 
          src="https://github-readme-stats.vercel.app/api?username=rooted1&show_icons=true&theme=merko" 
-      /></p>
+      />
+ </p>
+ <p>
+      <img align="left" alt="top_langs"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=rooted1&theme=merko" 
+      />
+ </p>
+</div>
    
     
 </div>
