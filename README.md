@@ -33,18 +33,36 @@
 
 <br>
 <br> 
-<div>
+<div style="max-width: 100%;">
  <p align="center">
-      <img 
+      <img alt="github-readme-stats"
          src="https://github-readme-stats.vercel.app/api?username=rooted1&show_icons=true&theme=merko" 
       />
+      <img alt="top_langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rooted1&theme=merko" />
  </p>
- <p>
-      <img align="left" alt="top_langs"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=rooted1&theme=merko" 
-      />
- </p>
+ 
 </div>
+<div align="center">
+      <a href="https://github.com/Rooted1/DS_Tutorial"><img alt="DS_Tutorials"
+         src="https://github-readme-stats.vercel.app/api/pin/?username=rooted1&repo=DS_Tutorial" width="400" height="140"
+      /><a>
+      <a href="https://github.com/Rooted1/squlla-learning-system"><img alt="squlla_learning_system"
+         src="https://github-readme-stats.vercel.app/api/pin/?username=rooted1&repo=squlla-learning-system" 
+      /><a>
+      <a href="https://github.com/Rooted1/WEFly"><img alt="wefly"
+         src="https://github-readme-stats.vercel.app/api/pin/?username=rooted1&repo=WEFly" width="400" height="140"
+      /><a>
+      <a href="https://github.com/Rooted1/SketchUp"><img alt="sketchup"
+         src="https://github-readme-stats.vercel.app/api/pin/?username=rooted1&repo=SketchUp" width="400" height="140"
+      /><a>
+      <a href="https://github.com/Rooted1/BabyFaceBook"><img alt="babyfacebook"
+         src="https://github-readme-stats.vercel.app/api/pin/?username=rooted1&repo=BabyFaceBook" width="400" height="140"
+      /><a>
+      <a href="https://github.com/Rooted1/Project-CineMass"><img alt="project-cinemass"
+         src="https://github-readme-stats.vercel.app/api/pin/?username=rooted1&repo=Project-CineMass" width="400" height="140"
+      /><a>
+ </div>
+
    
     
 </div>
