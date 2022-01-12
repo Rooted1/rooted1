@@ -38,7 +38,7 @@
       <img alt="github-readme-stats"
          src="https://github-readme-stats.vercel.app/api?username=rooted1&show_icons=true&theme=merko" 
       />
-      <img alt="top_langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rooted1&theme=merko" />
+      <img alt="top_langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rooted1&layout=compact&langs_count=8&theme=merko" />
  </p>
  
 </div>
