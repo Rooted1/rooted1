@@ -44,22 +44,22 @@
 </div>
 <div align="center">
       <a href="https://github.com/Rooted1/DS_Tutorial"><img alt="DS_Tutorials"
-         src="https://github-readme-stats.vercel.app/api/pin/?username=rooted1&repo=DS_Tutorial" width="400" height="140"
+         src="https://github-readme-stats.vercel.app/api/pin/?username=rooted1&repo=DS_Tutorial&theme=merko" width="400" height="140"
       /><a>
       <a href="https://github.com/Rooted1/squlla-learning-system"><img alt="squlla_learning_system"
-         src="https://github-readme-stats.vercel.app/api/pin/?username=rooted1&repo=squlla-learning-system" 
+         src="https://github-readme-stats.vercel.app/api/pin/?username=rooted1&repo=squlla-learning-system&theme=merko" 
       /><a>
       <a href="https://github.com/Rooted1/WEFly"><img alt="wefly"
-         src="https://github-readme-stats.vercel.app/api/pin/?username=rooted1&repo=WEFly" width="400" height="140"
+         src="https://github-readme-stats.vercel.app/api/pin/?username=rooted1&repo=WEFly&theme=merko" width="400" height="140"
       /><a>
       <a href="https://github.com/Rooted1/SketchUp"><img alt="sketchup"
-         src="https://github-readme-stats.vercel.app/api/pin/?username=rooted1&repo=SketchUp" width="400" height="140"
+         src="https://github-readme-stats.vercel.app/api/pin/?username=rooted1&repo=SketchUp&theme=merko" width="400" height="140"
       /><a>
       <a href="https://github.com/Rooted1/BabyFaceBook"><img alt="babyfacebook"
-         src="https://github-readme-stats.vercel.app/api/pin/?username=rooted1&repo=BabyFaceBook" width="400" height="140"
+         src="https://github-readme-stats.vercel.app/api/pin/?username=rooted1&repo=BabyFaceBook&theme=merko" width="400" height="140"
       /><a>
       <a href="https://github.com/Rooted1/Project-CineMass"><img alt="project-cinemass"
-         src="https://github-readme-stats.vercel.app/api/pin/?username=rooted1&repo=Project-CineMass" width="400" height="140"
+         src="https://github-readme-stats.vercel.app/api/pin/?username=rooted1&repo=Project-CineMass&theme=merko" width="400" height="140"
       /><a>
  </div>
 
